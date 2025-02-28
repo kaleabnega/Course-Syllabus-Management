@@ -1,1 +1,1 @@
-#Course Syllabus Management System (SURE+ Project)
+Course Syllabus Management System (SURE+ Project)
